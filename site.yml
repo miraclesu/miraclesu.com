@@ -1,10 +1,10 @@
-title : Blog Title
+title : MiracleSu记忆
 tagline: Blog Tagline
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : MiracleSu
+  email : suchuangji@gmail.com
+  github : miralcesu
+  twitter : miracle_su
   feedburner : feedname
 
 navigation :
@@ -13,4 +13,4 @@ navigation :
   - categories.html
   - pages.html
   - about.md
-  
+

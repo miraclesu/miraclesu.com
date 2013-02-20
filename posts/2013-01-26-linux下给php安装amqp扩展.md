@@ -30,6 +30,12 @@ cd amqp-1.0.9 && phpize
 ./configure --with-amqp && make && sudo make install
 ```
 
+记得在php.ini中加入amqp扩展：
+
+```
+extension=amqp.so
+```
+
 ## 安装过程中可能会遇到的问题
 
 1. 缺少libtool包
